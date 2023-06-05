@@ -16,6 +16,17 @@ The questions we will address in this analysis are as follows:
    - Q. 8.1: What are the different Ratings defined by Netflix?
    - Q. 8.2: How many movies got the 'TV-14' rating in Canada? How many TV shows got the 'R' rating after the year 2018?
 
-To accomplish these objectives, we will use Python programming language along with libraries such as Pandas, Matplotlib, Seaborn, and Jupyter Notebook. By analyzing Netflix data, we can gain valuable insights that can inform business decisions, content strategies, and enhance the overall user experience on the platform.
+## Tools and Technologies
+
+The analysis will be performed using the following tools and technologies:
+
+- Python programming language
+- Pandas library for data manipulation and analysis
+- Matplotlib and Seaborn libraries for data visualization
+- Jupyter Notebook as the development and analysis environment
+
+## Conclusion
+
+By conducting a comprehensive analysis of Netflix, we aim to gain valuable insights into its content offerings, user preferences, and overall performance. These insights can be used to inform business decisions, content strategies, and enhance the overall user experience on the platform.
 
 Feel free to explore the analysis and adapt it to your specific requirements.
