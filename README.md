@@ -1,5 +1,7 @@
 # Netflix Analysis
 
+![Alt text](https://cdn1.hoanghamobile.com/tin-tuc/wp-content/uploads/2022/12/2-24.jpg)
+
 
 This project aims to perform an analysis of Netflix, a popular streaming service. By analyzing the available data, we will gain insights into various aspects of Netflix, such as its content library, user preferences, and overall trends. The analysis will help us understand the types of movies and TV shows available on Netflix, examine user ratings and reviews, identify popular content, investigate viewership patterns, and answer specific questions about the dataset.
 
